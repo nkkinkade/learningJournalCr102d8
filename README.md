@@ -1,7 +1,6 @@
 # learningJournalCr102d8
 
-# This is a title.
 
-## this is another title
+Table of Contents 
 
-Lab 01b for 102
+- [Learning Journal from Class One](/Reading-01.md)
